@@ -68,7 +68,7 @@ Develop SQL-based analytics to deliver insights into:
 sql-data-warehouse-project/
 │
 ├── datasets/        # Raw source data (CRM and ERP CSV files)
-├── docs/            # Architecture diagrams, data model, naming conventions, data catalog
+├── documents/            # Architecture diagrams, data model, naming conventions, data catalog
 ├── scripts/
 │   ├── init_database.sql   # Creates the database and schemas (bronze, silver, gold)
 │   ├── bronze/             # DDL and load procedures for raw data
