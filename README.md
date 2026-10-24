@@ -79,7 +79,6 @@ sql-data-warehouse-project/
 └── LICENSE
 ```
 
-> ⚠️ Adjust this tree to match the actual contents of your repo.
 
 ---
 
@@ -144,7 +143,6 @@ The Gold layer exposes a star schema:
 | `gold.dim_products` | Dimension | Product details and categories |
 | `gold.fact_sales` | Fact | Sales transactions linked to customers and products |
 
-> ⚠️ Update this table to reflect the objects in your project.
 
 ---
 
