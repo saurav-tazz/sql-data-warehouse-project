@@ -187,7 +187,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Saurav** — [GitHub](https://github.com/saurav-tazz)
+**Saurav Singh Tajpuriya** — [GitHub](https://github.com/saurav-tazz)
 
 ---
 
