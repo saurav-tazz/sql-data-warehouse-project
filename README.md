@@ -20,7 +20,7 @@ The warehouse follows the Medallion Architecture:
  ERP (CSV) ─┘                                              └─ Ad-hoc SQL
 ```
 
-[Data Architecture](documents/architecture.drawio.png)
+![Data Architecture](documents/architecture.drawio.png)
 
 ---
 
